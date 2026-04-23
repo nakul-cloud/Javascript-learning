@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.high { color: red; }
+.medium { color: orange; }
+.low { color: green; }
+
+li {
+  margin: 10px 0;
+}
